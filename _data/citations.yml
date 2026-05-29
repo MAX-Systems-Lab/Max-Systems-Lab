@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-29'
 papers:
   4jtGttIAAAAJ:0EnyYjriUFMC:
-    citations: 3
+    citations: 4
     title: 'TEA+: A Novel Temporal Graph Random Walk Engine with Hybrid Storage Architecture'
     year: '2024'
   4jtGttIAAAAJ:2osOgNQ5qMEC:
@@ -26,11 +26,11 @@ papers:
     title: 'Deanonymizing cryptocurrency with graph learning: The promises and challenges'
     year: '2019'
   4jtGttIAAAAJ:IjCSPb-OGe4C:
-    citations: 281
+    citations: 282
     title: 'Ftrans: energy-efficient acceleration of transformers using fpga'
     year: '2020'
   4jtGttIAAAAJ:Se3iqnhoufwC:
-    citations: 15
+    citations: 16
     title: 'Tea: A general-purpose temporal graph random walk engine'
     year: '2023'
   4jtGttIAAAAJ:Tyk-4Ss8FVUC:
@@ -74,6 +74,6 @@ papers:
     title: Cloud based web scraping for big data applications
     year: '2017'
   4jtGttIAAAAJ:zYLM7Y9cAGgC:
-    citations: 87
+    citations: 89
     title: 'C-SAW: a framework for graph sampling and random walk on GPUs'
     year: '2020'
