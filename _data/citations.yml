@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-22'
 papers:
   4jtGttIAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -14,7 +14,7 @@ papers:
     title: Synergizing High Performance Computing and Machine Learning for Co-Designing Computing Systems
     year: '2025'
   4jtGttIAAAAJ:5nxA0vEk-isC:
-    citations: 11
+    citations: 15
     title: 'Tao: re-thinking DL-based microarchitecture simulation'
     year: '2024'
   4jtGttIAAAAJ:8k81kl-MbHgC:
@@ -26,7 +26,7 @@ papers:
     title: 'Deanonymizing cryptocurrency with graph learning: The promises and challenges'
     year: '2019'
   4jtGttIAAAAJ:IjCSPb-OGe4C:
-    citations: 282
+    citations: 283
     title: 'Ftrans: energy-efficient acceleration of transformers using fpga'
     year: '2020'
   4jtGttIAAAAJ:Se3iqnhoufwC:
@@ -34,7 +34,7 @@ papers:
     title: 'Tea: A general-purpose temporal graph random walk engine'
     year: '2023'
   4jtGttIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 54
+    citations: 55
     title: 'Trust: Triangle Counting Reloaded on GPUs'
     year: '2021'
   4jtGttIAAAAJ:UeHWp8X0CEIC:
@@ -42,11 +42,11 @@ papers:
     title: 'Blocksim: A practical simulation tool for optimal network design, stability and planning'
     year: '2019'
   4jtGttIAAAAJ:Zph67rFs4hoC:
-    citations: 2
+    citations: 3
     title: A Comprehensive Survey of Subgraph Matching:[Experiments & Analysis]
     year: '2025'
   4jtGttIAAAAJ:_FxGoFyzp5QC:
-    citations: 28
+    citations: 30
     title: 'Simnet: Accurate and high-performance computer architecture simulation using deep learning'
     year: '2022'
   4jtGttIAAAAJ:d1gkVwhDpl0C:
@@ -70,10 +70,10 @@ papers:
     title: Distributed high performance computing in openstack cloud over sdn infrastructure
     year: '2017'
   4jtGttIAAAAJ:u5HHmVD_uO8C:
-    citations: 112
+    citations: 113
     title: Cloud based web scraping for big data applications
     year: '2017'
   4jtGttIAAAAJ:zYLM7Y9cAGgC:
-    citations: 89
+    citations: 91
     title: 'C-SAW: a framework for graph sampling and random walk on GPUs'
     year: '2020'
