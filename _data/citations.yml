@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   4jtGttIAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -14,11 +14,11 @@ papers:
     title: Synergizing High Performance Computing and Machine Learning for Co-Designing Computing Systems
     year: '2025'
   4jtGttIAAAAJ:5nxA0vEk-isC:
-    citations: 15
+    citations: 16
     title: 'Tao: re-thinking DL-based microarchitecture simulation'
     year: '2024'
   4jtGttIAAAAJ:8k81kl-MbHgC:
-    citations: 9
+    citations: 11
     title: 'Concorde: Fast and accurate cpu performance modeling with compositional analytical-ml fusion'
     year: '2025'
   4jtGttIAAAAJ:9yKSN-GCB0IC:
@@ -26,7 +26,7 @@ papers:
     title: 'Deanonymizing cryptocurrency with graph learning: The promises and challenges'
     year: '2019'
   4jtGttIAAAAJ:IjCSPb-OGe4C:
-    citations: 285
+    citations: 290
     title: 'Ftrans: energy-efficient acceleration of transformers using fpga'
     year: '2020'
   4jtGttIAAAAJ:Se3iqnhoufwC:
@@ -37,8 +37,12 @@ papers:
     citations: 55
     title: 'Trust: Triangle Counting Reloaded on GPUs'
     year: '2021'
+  4jtGttIAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Label-Efficient and Bottleneck-Exposing CPU Performance Modeling with Architectural Invariants
+    year: Unknown Year
   4jtGttIAAAAJ:UeHWp8X0CEIC:
-    citations: 40
+    citations: 41
     title: 'Blocksim: A practical simulation tool for optimal network design, stability and planning'
     year: '2019'
   4jtGttIAAAAJ:Zph67rFs4hoC:
@@ -46,7 +50,7 @@ papers:
     title: A Comprehensive Survey of Subgraph Matching:[Experiments & Analysis]
     year: '2025'
   4jtGttIAAAAJ:_FxGoFyzp5QC:
-    citations: 30
+    citations: 33
     title: 'Simnet: Accurate and high-performance computer architecture simulation using deep learning'
     year: '2022'
   4jtGttIAAAAJ:d1gkVwhDpl0C:
@@ -74,6 +78,6 @@ papers:
     title: Cloud based web scraping for big data applications
     year: '2017'
   4jtGttIAAAAJ:zYLM7Y9cAGgC:
-    citations: 93
+    citations: 95
     title: 'C-SAW: a framework for graph sampling and random walk on GPUs'
     year: '2020'
