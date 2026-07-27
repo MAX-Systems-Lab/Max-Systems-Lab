@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   4jtGttIAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -52,7 +52,7 @@ papers:
   4jtGttIAAAAJ:_FxGoFyzp5QC:
     citations: 34
     title: 'Simnet: Accurate and high-performance computer architecture simulation using deep learning'
-    year: '2022'
+    year: '2021'
   4jtGttIAAAAJ:d1gkVwhDpl0C:
     citations: 4
     title: Distributed high performance computing using JAVA
@@ -74,7 +74,7 @@ papers:
     title: Distributed high performance computing in openstack cloud over sdn infrastructure
     year: '2017'
   4jtGttIAAAAJ:u5HHmVD_uO8C:
-    citations: 114
+    citations: 113
     title: Cloud based web scraping for big data applications
     year: '2017'
   4jtGttIAAAAJ:zYLM7Y9cAGgC:
