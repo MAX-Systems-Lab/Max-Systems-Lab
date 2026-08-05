@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   4jtGttIAAAAJ:0EnyYjriUFMC:
     citations: 4
     title: 'TEA+: A Novel Temporal Graph Random Walk Engine with Hybrid Storage Architecture'
     year: '2024'
   4jtGttIAAAAJ:2osOgNQ5qMEC:
-    citations: 62
+    citations: 63
     title: 'H-index: Hash-indexing for parallel triangle counting on GPUs'
     year: '2019'
   4jtGttIAAAAJ:3fE2CSJIrl8C:
@@ -14,11 +14,11 @@ papers:
     title: Synergizing High Performance Computing and Machine Learning for Co-Designing Computing Systems
     year: '2025'
   4jtGttIAAAAJ:5nxA0vEk-isC:
-    citations: 16
-    title: 'Tao: re-thinking DL-based microarchitecture simulation'
+    citations: 17
+    title: 'Tao: Re-thinking dl-based microarchitecture simulation'
     year: '2024'
   4jtGttIAAAAJ:8k81kl-MbHgC:
-    citations: 12
+    citations: 13
     title: 'Concorde: Fast and accurate cpu performance modeling with compositional analytical-ml fusion'
     year: '2025'
   4jtGttIAAAAJ:9yKSN-GCB0IC:
@@ -26,7 +26,7 @@ papers:
     title: 'Deanonymizing cryptocurrency with graph learning: The promises and challenges'
     year: '2019'
   4jtGttIAAAAJ:IjCSPb-OGe4C:
-    citations: 292
+    citations: 294
     title: 'Ftrans: energy-efficient acceleration of transformers using fpga'
     year: '2020'
   4jtGttIAAAAJ:Se3iqnhoufwC:
@@ -34,7 +34,7 @@ papers:
     title: 'Tea: A general-purpose temporal graph random walk engine'
     year: '2023'
   4jtGttIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 55
+    citations: 56
     title: 'Trust: Triangle Counting Reloaded on GPUs'
     year: '2021'
   4jtGttIAAAAJ:ULOm3_A8WrAC:
@@ -42,19 +42,19 @@ papers:
     title: Label-Efficient and Bottleneck-Exposing CPU Performance Modeling with Architectural Invariants
     year: Unknown Year
   4jtGttIAAAAJ:UeHWp8X0CEIC:
-    citations: 41
+    citations: 39
     title: 'Blocksim: A practical simulation tool for optimal network design, stability and planning'
     year: '2019'
   4jtGttIAAAAJ:Zph67rFs4hoC:
     citations: 5
-    title: A Comprehensive Survey of Subgraph Matching:[Experiments & Analysis]
+    title: A comprehensive survey of subgraph matching:[experiments & analysis]
     year: '2025'
   4jtGttIAAAAJ:_FxGoFyzp5QC:
     citations: 34
     title: 'Simnet: Accurate and high-performance computer architecture simulation using deep learning'
-    year: '2021'
+    year: '2022'
   4jtGttIAAAAJ:d1gkVwhDpl0C:
-    citations: 4
+    citations: 3
     title: Distributed high performance computing using JAVA
     year: '2016'
   4jtGttIAAAAJ:eQOLeE2rZwMC:
@@ -66,15 +66,15 @@ papers:
     title: Fast DL-based Simulation with Microarchitecture Agnostic Traces and Instruction Embeddings
     year: Unknown Year
   4jtGttIAAAAJ:roLk4NBRz8UC:
-    citations: 8
+    citations: 7
     title: Scalable deep learning-based microarchitecture simulation on gpus
     year: '2022'
   4jtGttIAAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 8
     title: Distributed high performance computing in openstack cloud over sdn infrastructure
     year: '2017'
   4jtGttIAAAAJ:u5HHmVD_uO8C:
-    citations: 113
+    citations: 111
     title: Cloud based web scraping for big data applications
     year: '2017'
   4jtGttIAAAAJ:zYLM7Y9cAGgC:
